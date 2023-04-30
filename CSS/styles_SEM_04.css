@@ -1,0 +1,81 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Gloria+Hallelujah&family=Mr+Dafoe&display=swap');
+
+html{
+    font-size: 16px;
+}
+section{
+    min-height: 100vh;
+}
+*{
+    scroll-behavior: smooth;
+}
+
+body{
+    text-align: center;
+}
+body{ 
+    background-color: #fbf7e9;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%23d2c2a9' fill-opacity='0.4'%3E%3Cpath d='M0 38.59l2.83-2.83 1.41 1.41L1.41 40H0v-1.41zM0 1.4l2.83 2.83 1.41-1.41L1.41 0H0v1.41zM38.59 40l-2.83-2.83 1.41-1.41L40 38.59V40h-1.41zM40 1.41l-2.83 2.83-1.41-1.41L38.59 0H40v1.41zM20 18.6l2.83-2.83 1.41 1.41L21.41 20l2.83 2.83-1.41 1.41L20 21.41l-2.83 2.83-1.41-1.41L18.59 20l-2.83-2.83 1.41-1.41L20 18.59z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+
+P, ol{
+    color:saddlebrown;
+    font-family: sans-serif;
+}
+h1{
+font-size: 2rem;
+font-family:"bebas Neue",sans-serif;
+color:rgb(74, 45, 24);
+}
+h2{
+    color:saddlebrown;
+    font-family: "Gloria Hallelujah";
+    font-size: 5rem;
+}
+h3{
+    color:saddlebrown;
+    font-family:"bebas neue" , sans-serif;
+    font-size: 2rem;
+}
+h4{
+    font-family:"bebas neue" , sans-serif;
+    font-size: 1.5rem;
+}
+a{
+    color:rgb(221, 172, 86)
+}
+
+#destrezas{
+    background-color: rgb(54, 46, 37);
+    color:rgb(244, 228, 217);
+    font-family: sans-serif;
+}
+#link_ig{
+    background-color: rgb(128, 84, 33);
+    font-family: sans-serif;
+}
+.centrado{
+    font-family: 
+}
+
+.img_mediana{
+    width: 80%;
+  }
+
+.cambiarcolor{
+    color:rgb(244, 228, 217);
+}
+
+.menu{
+    background-color: rgb(46, 39, 32);
+    font-family:"bebas neue", sans-serif;
+    font-size: 2rem; 
+}
+
+.icono{
+    width: 2rem;  
+}
+/* al centrar todos los textos, no encontre la manera de que las viñetas de las listas, se mantejan junto al texto, 
+podemos explicar esto rapidamente en la proxima clase. GRACIAS!!! */
